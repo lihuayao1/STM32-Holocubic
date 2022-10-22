@@ -1,0 +1,33 @@
+Changes Notes - from MD6.1 to 6.12
+ 
+- Fixed Hardware Calibration Offset register accel format
+ 
+Previous implementation was saving the offsets in the accel offset registers in a scalre range of +-8G. After clarification the format should be saved in scale range of +-16G
+ 
+- Fixed sometimes for 9-axis sensor fusion new data flag is not updated
+ 
+In hal_outputs.c, there is a flag which indicates when there is new 9-axis data to be pushed into the MPL library to be built. Flag was looking into the wrong settings to be set.
+ 
+- added gravity vector data output
+ 
+Gravity vector will give on which axis the gravity is effecting on the accel. This way you can always see where the gravity is on the device
+ 
+- Added ARM precompiled MPL libaries for IAR, Keil, and GCC 4.9.3
+ 
+Precompiled MPL libraries using IAR and Keil compiler for M0, M0+,M3, M4, M4F. GCC libraries updated to GCC 4.9.3 and there are M0, M3, and M4 with no FP, softFP, and hardFP. GCC compiler settings are based on
+ 
+GCC recommanded settings. You can choose which one fits best into their project. 
+ 
+- Fixed low power motion interrupt to set the LPF accel filters correctly
+ 
+When going into low power motion interrupt mode, the LPF of the accel should be turned off. Previously it was not fully turned off wbecause need to set F_CHOICE bit. Now it turns off and restores correctly.
+ 
+- Updated Documents
+ 
+Updated all documents to MD6.12
+ 
+- Removed STM32L M3 project
+ 
+You shoud be able to use the M4 project and also the MPL libraries to port to other ARM MCU cores.
+ 
+- Misc error messaging

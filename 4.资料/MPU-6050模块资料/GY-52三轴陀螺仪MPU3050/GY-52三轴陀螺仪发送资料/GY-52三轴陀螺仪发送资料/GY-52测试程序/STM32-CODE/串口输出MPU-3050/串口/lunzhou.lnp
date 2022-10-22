@@ -1,0 +1,4 @@
+--device DARMSTM "main.o" "stm32f10x_it.o" "stm32f10x_rcc.o" "stm32f10x_tim.o" "stm32f10x_usart.o" "stm32f10x_wwdg.o" "misc.o" "stm32f10x_gpio.o" "stm32f10x_flash.o" "startup_stm32f10x_hd.o" "core_cm3.o" "system_stm32f10x.o" --strict --scatter "lunzhou.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\lunzhou.map" -o "lunzhou.axf"

@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v141:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=10.0.17763.0
+Debug|x64|D:\STM32\2.diy项目\2.holocubic\1.单片机代码\8.FLASH烧录（正式启动前）\VS打印bmp数组\|

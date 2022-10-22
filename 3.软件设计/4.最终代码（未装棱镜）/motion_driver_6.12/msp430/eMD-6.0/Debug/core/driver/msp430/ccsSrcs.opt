@@ -1,0 +1,1 @@
+"../core/driver/msp430/msp430_clock.c" "../core/driver/msp430/msp430_i2c.c" "../core/driver/msp430/msp430_interrupt.c" 

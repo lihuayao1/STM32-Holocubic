@@ -1,0 +1,17 @@
+Check Time:  2020-02-14 09:38:01
+MD5:  1ACFFA4CF16F25782FC14228610CEEAB
+
+Module Type: ESP8266
+
+*************** File Info ***************
+
+File Name: BAT_AT_V1.7.1.0_1M.bin
+File Size: 1024 KB (8.00Mbits)
+
+*************** Flash Info ***************
+
+SPI MODE: DOUT
+SPI SPEED: 40MHZ
+Flash Size: 8Mbits
+
+*****************************************

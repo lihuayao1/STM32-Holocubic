@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>Project/STM32L-DISCOVERY</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>283</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1023</ColumnWidth1><ColumnWidth2>273</ColumnWidth2><ColumnWidth3>68</ColumnWidth3></Build>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1365</ColumnWidth1></Debug-Log>
+    </Static>
+    <Windows>
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-18649-18645</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>Project</ExpandedNode><ExpandedNode>Project/CMSIS</ExpandedNode><ExpandedNode>Project/Doc</ExpandedNode><ExpandedNode>Project/EWARM</ExpandedNode><ExpandedNode>Project/Output</ExpandedNode><ExpandedNode>Project/STM32L_DISCOVERY</ExpandedNode><ExpandedNode>Project/StdPeriph_Driver</ExpandedNode><ExpandedNode>Project/User</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-22581-22051</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-9219-22097</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\Utilities\STM32L-DISCOVERY\stm32l_discovery_lcd.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>561</YPos2><SelStart2>1046</SelStart2><SelEnd2>1046</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\src\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>15</YPos2><SelStart2>1294</SelStart2><SelEnd2>1294</SelEnd2></Tab><ActiveTab>1</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\Libraries\STM32L1xx_StdPeriph_Driver\src\stm32l1xx_i2c.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>1290</YPos2><SelStart2>22186</SelStart2><SelEnd2>22190</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32L1xx\startup\iar\startup_stm32l1xx_md.s</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>129</SelStart2><SelEnd2>129</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\src\system_stm32l1xx.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>329</YPos2><SelStart2>13207</SelStart2><SelEnd2>13207</SelEnd2></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-02756e80><key>iaridepm.enu1</key></Toolbar-02756e80></Sizes></Row0></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>661</Bottom><Right>374</Right><x>-2</x><y>-2</y><xscreen>184</xscreen><yscreen>198</yscreen><sizeHorzCX>119171</sizeHorzCX><sizeHorzCY>219512</sizeHorzCY><sizeVertCX>243523</sizeVertCX><sizeVertCY>735033</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>196</Bottom><Right>1546</Right><x>-2</x><y>-2</y><xscreen>1548</xscreen><yscreen>198</yscreen><sizeHorzCX>1002591</sizeHorzCX><sizeHorzCY>219512</sizeHorzCY><sizeVertCX>119171</sizeVertCX><sizeVertCY>219512</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

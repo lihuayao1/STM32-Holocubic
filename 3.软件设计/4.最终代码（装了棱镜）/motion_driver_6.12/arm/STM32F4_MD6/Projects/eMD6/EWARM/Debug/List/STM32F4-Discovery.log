@@ -1,0 +1,1502 @@
+
+Unused fragments:
+  Section name           Index  Offset     Size  Object
+  ------------           -----  ------     ----  ------
+  .iar.as_table              1     0x0  0x20000  command line/config
+  .iar.as_entries            2     0x0  0x10000  command line/config
+  .bss                      11     0x0      0x4  board-st_discovery.o
+  __DLIB_PERTHREAD          13     0x0      0x0  board-st_discovery.o
+  __DLIB_PERTHREAD_init     14     0x0      0x0  board-st_discovery.o
+  .text                      8     0x0     0x12  data_builder.o
+                                  0xb2      0x8
+                                  0xba      0x8
+                                  0xc2      0xa
+                                 0x178      0xa
+                                 0x182      0xa
+                                 0x18c      0xc
+                                 0x1b2      0x8
+                                 0x1ba      0xa
+                                 0x1c4      0xa
+                                 0x288      0x4
+                                 0x28c     0x6a
+                                 0x3cc      0xa
+                                 0x424     0x1c
+                                 0x440     0x58
+                                 0x55e     0x26
+                                 0x7f0      0xc
+                                 0x8e8     0x6c
+                                 0xb3c     0x28
+                                 0xbbc     0x22
+                                 0xc00      0xc
+                                 0xc10      0xc
+                                 0xc20     0x1a
+                                 0xc3a     0x30
+                                 0xc6a     0x1a
+                                 0xc88     0x30
+                                 0xcd2     0x1a
+                                 0xd8a      0xa
+                                 0xdc8      0x4
+  __DLIB_PERTHREAD          12     0x0      0x0  data_builder.o
+  __DLIB_PERTHREAD_init     13     0x0      0x0  data_builder.o
+  .rodata                   14     0x0      0x4  data_builder.o
+  .text                      9   0x4aa      0xa  eMPL_outputs.o
+                                 0x4d8     0x10
+  __DLIB_PERTHREAD          11     0x0      0x0  eMPL_outputs.o
+  __DLIB_PERTHREAD_init     12     0x0      0x0  eMPL_outputs.o
+  .text                      8    0x80     0x22  gpio.o
+                                  0xa2     0x28
+                                  0xca      0xa
+  __DLIB_PERTHREAD          10     0x0      0x0  gpio.o
+  __DLIB_PERTHREAD_init     11     0x0      0x0  gpio.o
+  .text                      9     0x0     0x60  hal_outputs.o
+                                 0x140     0x60
+                                 0x1a0     0x5e
+                                 0x1fe     0xc0
+                                 0x2be     0x46
+                                 0x308     0xb0
+                                 0x3b8     0x7a
+                                 0x432     0x1a
+                                 0x44c      0x4
+                                 0x450      0x4
+                                 0x454    0x1d4
+                                 0x628      0xa
+                                 0x632     0x10
+                                 0x642     0x2c
+                                 0x66e      0xe
+                                 0x67c     0x10
+                                 0x68c      0x4
+                                 0x690      0x4
+                                 0x694      0x4
+                                 0x69c      0x4
+                                 0x6a0      0x4
+                                 0x6a4      0x4
+                                 0x6a8      0x4
+                                 0x6ac      0x4
+                                 0x6b0      0x4
+                                 0x6b4      0x4
+  .data                     10     0x0     0x14  hal_outputs.o
+  __DLIB_PERTHREAD          12     0x0      0x0  hal_outputs.o
+  __DLIB_PERTHREAD_init     13     0x0      0x0  hal_outputs.o
+  __DLIB_PERTHREAD          11     0x0      0x0  i2c.o
+  __DLIB_PERTHREAD_init     12     0x0      0x0  i2c.o
+  .text                     49   0x124     0x4e  inv_mpu.o
+                                 0x454     0x74
+                                 0x5d4     0x88
+                                 0x65c     0x88
+                                 0x6e4     0x88
+                                 0x76c     0xa8
+                                 0x814     0xd8
+                                 0x8f0     0xd6
+                                 0xf2a      0xa
+                                0x10ac     0x18
+                                0x127e     0x4a
+                                0x17d8      0xc
+                                0x19c0    0x478
+                                0x2ed4     0xc0
+                                0x322e      0xe
+  .rodata                   50     0x0      0x8  inv_mpu.o
+  .rodata                   51     0x0      0x8  inv_mpu.o
+  .rodata                   52     0x0      0xc  inv_mpu.o
+  .rodata                   53     0x0      0x8  inv_mpu.o
+  .rodata                   54     0x0      0xc  inv_mpu.o
+  __DLIB_PERTHREAD          57     0x0      0x0  inv_mpu.o
+  __DLIB_PERTHREAD_init     58     0x0      0x0  inv_mpu.o
+  .text                     11   0x16a    0x146  inv_mpu_dmp_motion_driver.o
+                                 0x2b0    0x144
+                                 0xa4a      0xc
+  __DLIB_PERTHREAD          22     0x0      0x0  inv_mpu_dmp_motion_driver.o
+  __DLIB_PERTHREAD_init     23     0x0      0x0  inv_mpu_dmp_motion_driver.o
+  __DLIB_PERTHREAD          10     0x0      0x0  log_stm32.o
+  __DLIB_PERTHREAD_init     11     0x0      0x0  log_stm32.o
+  .bss                       8     0x0      0x4  main.o
+  .bss                      10     0x0      0x1  main.o
+  .rodata                   48     0x0      0xc  main.o
+  .rodata                   49     0x0      0xc  main.o
+  __DLIB_PERTHREAD          51     0x0      0x0  main.o
+  __DLIB_PERTHREAD_init     52     0x0      0x0  main.o
+  __DLIB_PERTHREAD          11     0x0      0x0  message_layer.o
+  __DLIB_PERTHREAD_init     12     0x0      0x0  message_layer.o
+  .text                      8     0x0      0xa  misc.o
+                                  0x6a      0xc
+                                  0x76     0x24
+                                  0x9a     0x22
+                                  0xbc      0x4
+                                  0xd0      0x4
+                                  0xd4      0x4
+                                  0xd8      0x4
+                                  0xdc      0x4
+  __DLIB_PERTHREAD          10     0x0      0x0  misc.o
+  __DLIB_PERTHREAD_init     11     0x0      0x0  misc.o
+  .text                      8    0x12     0x16  ml_math_func.o
+                                  0x28     0x34
+                                  0x5c     0x38
+                                 0x170     0x16
+                                 0x186      0xc
+                                 0x280     0xb4
+                                 0x338      0x4
+                                 0x33c      0x4
+                                 0x340      0xa
+                                 0x364     0x80
+                                 0x3e4      0x8
+                                 0x648      0x8
+                                 0x650      0x8
+                                 0x7e8     0x26
+                                 0x80e     0x12
+                                 0x820     0x16
+                                 0x836      0xc
+                                 0x842      0xc
+                                 0x84e      0xc
+                                 0x85a     0x5a
+                                 0x8b4     0x64
+                                 0x918     0x98
+                                 0x9b0     0xc8
+                                 0xa78     0x34
+                                 0xaac     0x60
+                                 0xb0c      0x4
+                                 0xb10      0x4
+                                 0xb14      0x4
+                                 0xb18      0x4
+                                 0xb1c      0x4
+                                 0xb20      0x4
+                                 0xb24      0x4
+                                 0xb28      0x4
+                                 0xb2c      0x4
+                                 0xb30      0x4
+                                 0xb34      0x4
+                                 0xb38      0x4
+                                 0xb3c      0x4
+                                 0xb40      0x4
+                                 0xb44      0x8
+                                 0xb4c      0x4
+                                 0xb50     0x1e
+                                 0xbe2     0x58
+                                 0xc3a     0x58
+                                 0xd04     0x38
+                                 0xd3c     0x22
+                                 0xd5e     0x2a
+                                 0xd88     0x5e
+                                 0xde6     0x56
+  .rodata                    9     0x0    0x400  ml_math_func.o
+  __DLIB_PERTHREAD          11     0x0      0x0  ml_math_func.o
+  __DLIB_PERTHREAD_init     12     0x0      0x0  ml_math_func.o
+  .text                      8     0x0      0x8  mlmath.o
+                                   0x8      0x8
+                                  0x10      0x8
+                                  0x18      0x8
+                                  0x20      0x8
+                                  0x28      0x8
+                                  0x30      0x8
+                                  0x38      0x8
+                                  0x40      0x8
+                                  0x48      0x8
+                                  0x50      0x8
+  __DLIB_PERTHREAD          10     0x0      0x0  mlmath.o
+  __DLIB_PERTHREAD_init     11     0x0      0x0  mlmath.o
+  .text                      8    0x74      0x8  mpl.o
+                                  0xac      0x4
+  .rodata                   13     0x0     0x14  mpl.o
+  __DLIB_PERTHREAD          15     0x0      0x0  mpl.o
+  __DLIB_PERTHREAD_init     16     0x0      0x0  mpl.o
+  .text                      8     0x0     0x12  results_holder.o
+                                  0x8a      0x8
+                                  0x9a      0x8
+                                 0x10a     0x12
+                                 0x12e     0x12
+                                 0x140     0x12
+                                 0x1fe     0x3c
+                                 0x2f8      0x4
+                                 0x2fc      0x6
+                                 0x302      0x6
+                                 0x330     0x10
+                                 0x382     0x16
+                                 0x398     0x4c
+                                 0x3e4     0x4c
+                                 0x430      0x8
+                                 0x438      0x8
+                                 0x440     0x4c
+                                 0x48c      0x4
+                                 0x4a0      0x4
+  __DLIB_PERTHREAD          11     0x0      0x0  results_holder.o
+  __DLIB_PERTHREAD_init     12     0x0      0x0  results_holder.o
+  .text                      9    0x12     0x5c  start_manager.o
+  __DLIB_PERTHREAD          11     0x0      0x0  start_manager.o
+  __DLIB_PERTHREAD_init     12     0x0      0x0  start_manager.o
+  CSTACK                     6     0x0      0x0  startup_stm32f40x.o
+  .text                      9     0x0      0x4  startup_stm32f40x.o
+  .text                     11     0x0      0x4  startup_stm32f40x.o
+  .text                     12     0x0      0x4  startup_stm32f40x.o
+  .text                     13     0x0      0x4  startup_stm32f40x.o
+  .text                     14     0x0      0x4  startup_stm32f40x.o
+  .text                     15     0x0      0x4  startup_stm32f40x.o
+  .text                     17     0x0      0x4  startup_stm32f40x.o
+  .text                     25     0x0      0x4  startup_stm32f40x.o
+  .text                     48     0x0      0x4  startup_stm32f40x.o
+  .data                      8     0x0     0x10  stm32f4_discovery.o
+  .rodata                    9     0x0      0x8  stm32f4_discovery.o
+  .rodata                   10     0x0     0x10  stm32f4_discovery.o
+  .data                     11     0x0      0x4  stm32f4_discovery.o
+  .rodata                   12     0x0      0x2  stm32f4_discovery.o
+  .rodata                   13     0x0      0x4  stm32f4_discovery.o
+  .rodata                   14     0x0      0x2  stm32f4_discovery.o
+  .rodata                   15     0x0      0x1  stm32f4_discovery.o
+  .rodata                   16     0x0      0x1  stm32f4_discovery.o
+  .rodata                   17     0x0      0x1  stm32f4_discovery.o
+  .bss                      18     0x0      0x4  stm32f4_discovery.o
+  .text                     19     0x0     0x44  stm32f4_discovery.o
+                                  0x44     0x14
+                                  0x58     0x14
+                                  0x6c     0x20
+                                  0x8c     0xa2
+                                 0x12e     0x1a
+                                 0x148      0x4
+                                 0x14c      0x4
+                                 0x150      0x4
+                                 0x154      0x4
+                                 0x158      0x4
+                                 0x15c      0x4
+                                 0x160      0x4
+                                 0x164      0x4
+                                 0x168      0x4
+                                 0x16c      0x4
+  __DLIB_PERTHREAD          21     0x0      0x0  stm32f4_discovery.o
+  __DLIB_PERTHREAD_init     22     0x0      0x0  stm32f4_discovery.o
+  .text                      8     0x0     0x18  stm32f4xx_adc.o
+                                  0x18     0x4a
+                                  0x62     0x1e
+                                  0x80     0x20
+                                  0xa0     0x12
+                                  0xb2     0x1a
+                                  0xcc      0xe
+                                  0xda      0xa
+                                  0xe4     0x10
+                                  0xf4     0x22
+                                 0x116     0x22
+                                 0x138     0xd4
+                                 0x20c      0xa
+                                 0x216     0x14
+                                 0x22a     0x1a
+                                 0x244     0x1a
+                                 0x25e     0x16
+                                 0x274     0x1a
+                                 0x28e      0x6
+                                 0x294      0x6
+                                 0x29a     0x1a
+                                 0x2b4     0x1a
+                                 0x2ce     0x22
+                                 0x2f0      0x4
+                                 0x2f4      0x4
+                                 0x2f8      0x4
+                                 0x2fc      0x4
+                                 0x300      0x4
+                                 0x304      0x4
+                                 0x308     0x8c
+                                 0x394     0x16
+                                 0x3aa     0x1a
+                                 0x3c4      0xe
+                                 0x3d2      0xe
+                                 0x3e0      0xa
+                                 0x3ea     0x14
+                                 0x3fe     0x1a
+                                 0x418     0x1a
+                                 0x432     0x1c
+                                 0x44e     0x22
+                                 0x470     0x16
+                                 0x486      0x8
+                                 0x48e     0x30
+                                 0x4be      0xe
+  __DLIB_PERTHREAD          10     0x0      0x0  stm32f4xx_adc.o
+  __DLIB_PERTHREAD_init     11     0x0      0x0  stm32f4xx_adc.o
+  .text                      8     0x0     0x36  stm32f4xx_can.o
+                                  0x36    0x10c
+                                 0x142    0x110
+                                 0x252     0x2e
+                                 0x280     0x46
+                                 0x2c6     0x1a
+                                 0x2e0     0x62
+                                 0x342    0x11e
+                                 0x460     0x8c
+                                 0x4ec     0x2e
+                                 0x51a     0xe8
+                                 0x602     0x1a
+                                 0x61c     0x26
+                                 0x642     0xaa
+                                 0x6ec     0x20
+                                 0x70c     0x2a
+                                 0x736      0xe
+                                 0x744      0xc
+                                 0x750      0xc
+                                 0x75c     0x18
+                                 0x774     0x68
+                                 0x7dc     0x2e
+                                 0x80a    0x106
+                                 0x910     0x94
+                                 0x9a4      0x4
+                                 0x9a8      0x4
+                                 0x9ac      0x4
+                                 0x9b0      0x4
+                                 0x9b4      0x4
+                                 0x9b8      0x4
+                                 0x9bc      0x4
+                                 0x9c0      0x4
+                                 0x9c4      0x4
+                                 0x9c8      0x4
+                                 0x9cc      0x4
+                                 0x9d0      0x4
+                                 0x9d4      0x4
+                                 0x9d8      0x4
+                                 0x9dc      0x4
+                                 0x9e0      0x4
+                                 0x9e4     0x12
+  __DLIB_PERTHREAD          10     0x0      0x0  stm32f4xx_can.o
+  __DLIB_PERTHREAD_init     11     0x0      0x0  stm32f4xx_can.o
+  .text                      8     0x0      0x8  stm32f4xx_crc.o
+                                   0x8      0xa
+                                  0x12     0x1e
+                                  0x30      0x6
+                                  0x36      0x6
+                                  0x3c      0x8
+                                  0x44      0x4
+                                  0x48      0x4
+                                  0x4c      0x4
+  __DLIB_PERTHREAD          10     0x0      0x0  stm32f4xx_crc.o
+  __DLIB_PERTHREAD_init     11     0x0      0x0  stm32f4xx_crc.o
+  .text                      8     0x0     0x14  stm32f4xx_cryp.o
+                                  0x14     0x7a
+                                  0x8e     0x12
+                                  0xa0     0x32
+                                  0xd2     0x22
+                                  0xf4     0x1a
+                                 0x10e     0x12
+                                 0x120      0xe
+                                 0x12e     0x22
+                                 0x150      0x6
+                                 0x156      0x6
+                                 0x15c     0xb0
+                                 0x20c     0x5c
+                                 0x268     0x24
+                                 0x28c     0x24
+                                 0x2b0     0x18
+                                 0x2c8     0x24
+                                 0x2ec      0x4
+                                 0x2f0      0x4
+                                 0x2f4      0x4
+                                 0x2f8      0x4
+                                 0x2fc      0x4
+                                 0x300      0x4
+                                 0x304      0x4
+                                 0x308      0x4
+                                 0x30c      0x4
+                                 0x310      0x4
+                                 0x314      0x4
+                                 0x318      0x4
+                                 0x31c      0x4
+                                 0x320      0x4
+                                 0x324      0x4
+                                 0x328      0x4
+                                 0x32c      0x4
+                                 0x330      0x4
+                                 0x334      0x4
+                                 0x338      0x4
+  __DLIB_PERTHREAD          10     0x0      0x0  stm32f4xx_cryp.o
+  __DLIB_PERTHREAD_init     11     0x0      0x0  stm32f4xx_cryp.o
+  .text                      8     0x0    0x22a  stm32f4xx_cryp_aes.o
+                                 0x22a    0x224
+                                 0x44e    0x1dc
+  __DLIB_PERTHREAD          10     0x0      0x0  stm32f4xx_cryp_aes.o
+  __DLIB_PERTHREAD_init     11     0x0      0x0  stm32f4xx_cryp_aes.o
+  .text                      8     0x0     0xd8  stm32f4xx_cryp_des.o
+                                  0xd8     0xee
+  __DLIB_PERTHREAD          10     0x0      0x0  stm32f4xx_cryp_des.o
+  __DLIB_PERTHREAD_init     11     0x0      0x0  stm32f4xx_cryp_des.o
+  .text                      8     0x0    0x108  stm32f4xx_cryp_tdes.o
+                                 0x108    0x10e
+  __DLIB_PERTHREAD          10     0x0      0x0  stm32f4xx_cryp_tdes.o
+  __DLIB_PERTHREAD_init     11     0x0      0x0  stm32f4xx_cryp_tdes.o
+  .text                      8     0x0     0x18  stm32f4xx_dac.o
+                                  0x18     0x2e
+                                  0x46     0x12
+                                  0x58     0x2c
+                                  0x84     0x30
+                                  0xb4     0x22
+                                  0xd6     0x28
+                                  0xfe     0x1c
+                                 0x11a     0x1c
+                                 0x136     0x28
+                                 0x15e     0x1e
+                                 0x17c     0x30
+                                 0x1ac     0x28
+                                 0x1d4     0x1a
+                                 0x1ee      0xa
+                                 0x1f8     0x2a
+                                 0x222      0xa
+                                 0x22c      0x4
+                                 0x230      0x4
+                                 0x234      0x4
+  __DLIB_PERTHREAD          10     0x0      0x0  stm32f4xx_dac.o
+  __DLIB_PERTHREAD_init     11     0x0      0x0  stm32f4xx_dac.o
+  .text                      8     0x0      0x8  stm32f4xx_dbgmcu.o
+                                   0x8      0xa
+                                  0x12     0x20
+                                  0x32     0x20
+                                  0x52     0x22
+                                  0x74      0x4
+                                  0x78      0x4
+                                  0x7c      0x4
+                                  0x80      0x4
+  __DLIB_PERTHREAD          10     0x0      0x0  stm32f4xx_dbgmcu.o
+  __DLIB_PERTHREAD_init     11     0x0      0x0  stm32f4xx_dbgmcu.o
+  .text                      8     0x0     0x2c  stm32f4xx_dcmi.o
+                                  0x2c     0x38
+                                  0x64     0x1e
+                                  0x82     0x1a
+                                  0x9c     0x22
+                                  0xbe     0x1a
+                                  0xd8     0x22
+                                  0xfa     0x22
+                                 0x11c     0x22
+                                 0x13e      0x6
+                                 0x144     0x24
+                                 0x168     0x34
+                                 0x19c      0x8
+                                 0x1a4     0x1c
+                                 0x1c0      0x8
+                                 0x1c8      0x4
+                                 0x1cc      0x4
+                                 0x1d0      0x4
+                                 0x1d4      0x4
+                                 0x1d8      0x4
+                                 0x1dc      0x4
+                                 0x1e0      0x4
+                                 0x1e4      0x4
+                                 0x1e8      0x4
+                                 0x1ec      0x4
+                                 0x1f0      0x4
+                                 0x1f4      0x4
+                                 0x1f8      0x4
+  __DLIB_PERTHREAD          10     0x0      0x0  stm32f4xx_dcmi.o
+  __DLIB_PERTHREAD_init     11     0x0      0x0  stm32f4xx_dcmi.o
+  .text                      8     0x0    0x134  stm32f4xx_dma.o
+                                 0x134     0x54
+                                 0x188     0x3e
+                                 0x1c6     0x1a
+                                 0x1e0     0x18
+                                 0x1f8     0x18
+                                 0x210      0x6
+                                 0x216      0x6
+                                 0x21c     0x1a
+                                 0x236     0x1a
+                                 0x250      0xc
+                                 0x25c     0x12
+                                 0x26e     0x14
+                                 0x282      0xc
+                                 0x28e     0x2e
+                                 0x2bc     0x20
+                                 0x2dc     0x40
+                                 0x31c     0x52
+                                 0x36e     0x22
+                                 0x390      0x4
+                                 0x394      0x4
+                                 0x398      0x4
+                                 0x39c      0x4
+                                 0x3a0      0x4
+                                 0x3a4      0x4
+                                 0x3a8      0x4
+                                 0x3ac      0x4
+                                 0x3b0      0x4
+                                 0x3b4      0x4
+                                 0x3b8      0x4
+                                 0x3bc      0x4
+                                 0x3c0      0x4
+                                 0x3c4      0x4
+                                 0x3c8      0x4
+                                 0x3cc      0x4
+                                 0x3d0      0x4
+                                 0x3d4      0x4
+                                 0x3d8      0x4
+                                 0x3dc      0x4
+                                 0x3e0      0x4
+                                 0x3e4      0x4
+                                 0x3e8      0x4
+                                 0x3ec      0x4
+                                 0x3f0      0x4
+                                 0x3f4      0x4
+                                 0x3f8      0x4
+                                 0x3fc      0x4
+  __DLIB_PERTHREAD          10     0x0      0x0  stm32f4xx_dma.o
+  __DLIB_PERTHREAD_init     11     0x0      0x0  stm32f4xx_dma.o
+  .text                      8     0x0     0x20  stm32f4xx_exti.o
+                                  0xa6     0x12
+                                  0xb8      0xc
+                                  0xc4     0x16
+                                  0xda      0x6
+                                  0xe0     0x22
+                                 0x118      0x4
+                                 0x120      0x4
+  __DLIB_PERTHREAD          10     0x0      0x0  stm32f4xx_exti.o
+  __DLIB_PERTHREAD_init     11     0x0      0x0  stm32f4xx_exti.o
+  .text                      8     0x0      0x8  stm32f4xx_flash.o
+                                   0x8     0x2a
+                                  0x32     0x2a
+                                  0x5c     0x2a
+                                  0x86     0x12
+                                  0x98     0x12
+                                  0xaa     0x20
+                                  0xca     0x12
+                                  0xdc     0xb0
+                                 0x18c     0x7a
+                                 0x206     0x50
+                                 0x256     0x4c
+                                 0x2a2     0x4c
+                                 0x2ee     0x48
+                                 0x336     0x16
+                                 0x34c      0xe
+                                 0x35a     0x30
+                                 0x38a     0x16
+                                 0x3a0     0x2a
+                                 0x3ca     0x18
+                                 0x3e2     0x18
+                                 0x3fa      0xa
+                                 0x404      0x8
+                                 0x40c     0x16
+                                 0x422      0xa
+                                 0x42c     0x20
+                                 0x44c     0x16
+                                 0x462      0x6
+                                 0x468     0x3c
+                                 0x4a4      0x4
+                                 0x4a8      0x4
+                                 0x4ac      0x4
+                                 0x4b0      0x4
+                                 0x4b4      0x4
+                                 0x4b8      0x4
+                                 0x4bc      0x4
+                                 0x4c0      0x4
+                                 0x4c4      0x4
+                                 0x4c8      0x4
+                                 0x4cc      0x4
+                                 0x4d0      0x4
+                                 0x4d4     0x28
+  __DLIB_PERTHREAD          10     0x0      0x0  stm32f4xx_flash.o
+  __DLIB_PERTHREAD_init     11     0x0      0x0  stm32f4xx_flash.o
+  .text                      8     0x0     0x38  stm32f4xx_fsmc.o
+                                  0x38     0xe0
+                                 0x118     0x8e
+                                 0x1a6     0x34
+                                 0x1da     0x50
+                                 0x22a     0x8e
+                                 0x2b8     0x4e
+                                 0x306     0x46
+                                 0x34c     0x46
+                                 0x392     0x14
+                                 0x3a6     0x26
+                                 0x3cc     0x78
+                                 0x444     0x56
+                                 0x49a     0x22
+                                 0x4bc     0x62
+                                 0x51e     0x2e
+                                 0x54c     0x2e
+                                 0x57a     0x3e
+                                 0x5b8     0x34
+                                 0x5ec      0x4
+                                 0x5f0      0x4
+                                 0x5f4      0x4
+                                 0x5f8      0x4
+                                 0x5fc      0x4
+                                 0x600      0x4
+                                 0x604      0x4
+                                 0x608      0x4
+                                 0x60c      0x4
+                                 0x610      0x4
+                                 0x614      0x4
+                                 0x618      0x4
+                                 0x61c      0x4
+                                 0x620      0x4
+                                 0x624      0x4
+                                 0x628      0x4
+                                 0x62c      0x4
+                                 0x630      0x4
+                                 0x634      0x4
+  __DLIB_PERTHREAD          10     0x0      0x0  stm32f4xx_fsmc.o
+  __DLIB_PERTHREAD_init     11     0x0      0x0  stm32f4xx_fsmc.o
+  .text                      8     0x0     0xe0  stm32f4xx_gpio.o
+                                  0xe0      0x4
+                                  0xe4      0x4
+                                  0xe8      0x4
+                                  0xec      0x4
+                                  0xf0      0x4
+                                  0xf4      0x4
+                                  0xf8      0x4
+                                  0xfc      0x4
+                                 0x100      0x4
+                                 0x1a8     0x18
+                                 0x1c0     0x28
+                                 0x1e8     0x16
+                                 0x1fe      0x6
+                                 0x204     0x16
+                                 0x21a      0x6
+                                 0x220      0x4
+                                 0x224      0x4
+                                 0x228      0xe
+                                 0x236      0x6
+                                 0x23c      0xa
+  __DLIB_PERTHREAD          10     0x0      0x0  stm32f4xx_gpio.o
+  __DLIB_PERTHREAD_init     11     0x0      0x0  stm32f4xx_gpio.o
+  .text                      8     0x0     0x14  stm32f4xx_hash.o
+                                  0x14     0x4c
+                                  0x60     0x12
+                                  0x72      0xe
+                                  0x80     0x1a
+                                  0x9a      0x6
+                                  0xa0      0xc
+                                  0xac     0x20
+                                  0xcc      0xe
+                                  0xda     0x32
+                                 0x10c     0x3e
+                                 0x14a     0x22
+                                 0x16c     0x24
+                                 0x190     0x24
+                                 0x1b4      0xa
+                                 0x1be     0x20
+                                 0x1de      0xa
+                                 0x1e8      0x4
+                                 0x1ec      0x4
+                                 0x1f0      0x4
+                                 0x1f4      0x4
+                                 0x1f8      0x4
+                                 0x1fc      0x4
+                                 0x200      0x4
+                                 0x204      0x4
+                                 0x208      0x4
+                                 0x20c      0x4
+                                 0x210      0x4
+  __DLIB_PERTHREAD          10     0x0      0x0  stm32f4xx_hash.o
+  __DLIB_PERTHREAD_init     11     0x0      0x0  stm32f4xx_hash.o
+  .text                      8     0x0     0xb6  stm32f4xx_hash_md5.o
+                                  0xb6    0x18a
+  __DLIB_PERTHREAD          10     0x0      0x0  stm32f4xx_hash_md5.o
+  __DLIB_PERTHREAD_init     11     0x0      0x0  stm32f4xx_hash_md5.o
+  .text                      8     0x0     0xbe  stm32f4xx_hash_sha1.o
+                                  0xbe    0x196
+  __DLIB_PERTHREAD          10     0x0      0x0  stm32f4xx_hash_sha1.o
+  __DLIB_PERTHREAD_init     11     0x0      0x0  stm32f4xx_hash_sha1.o
+  .text                      8   0x130     0x20  stm32f4xx_i2c.o
+                                 0x1d6     0x16
+                                 0x1ec     0x1c
+                                 0x208     0x1c
+                                 0x23e     0x1c
+                                 0x25a     0x1e
+                                 0x278     0x1e
+                                 0x296     0x1e
+                                 0x2b4     0x1c
+                                 0x2dc     0x1c
+                                 0x2f8     0x1e
+                                 0x316     0x1c
+                                 0x332      0xa
+                                 0x33c     0x1c
+                                 0x358     0x1c
+                                 0x38c     0x18
+                                 0x3a4     0x2a
+                                 0x3ce     0x18
+                                 0x434     0x28
+                                 0x45c      0xc
+  __DLIB_PERTHREAD          10     0x0      0x0  stm32f4xx_i2c.o
+  __DLIB_PERTHREAD_init     11     0x0      0x0  stm32f4xx_i2c.o
+  __DLIB_PERTHREAD          13     0x0      0x0  stm32f4xx_it.o
+  __DLIB_PERTHREAD_init     14     0x0      0x0  stm32f4xx_it.o
+  .text                      8     0x0      0x8  stm32f4xx_iwdg.o
+                                   0x8      0x8
+                                  0x10      0x8
+                                  0x18      0xa
+                                  0x22      0xa
+                                  0x2c     0x18
+                                  0x44      0x4
+                                  0x48      0x4
+                                  0x4c      0x4
+                                  0x50      0x4
+  __DLIB_PERTHREAD          10     0x0      0x0  stm32f4xx_iwdg.o
+  __DLIB_PERTHREAD_init     11     0x0      0x0  stm32f4xx_iwdg.o
+  .text                      8     0x0     0x18  stm32f4xx_pwr.o
+                                  0x20     0x12
+                                  0x32      0x8
+                                  0x3a      0x8
+                                  0x42      0x8
+                                  0x4a     0x20
+                                  0x6a      0x8
+                                  0x72     0x36
+                                  0xa8     0x28
+                                  0xd0     0x16
+                                  0xe6      0xe
+                                  0xf8      0x4
+                                  0xfc      0x4
+                                 0x100      0x4
+                                 0x104      0x4
+                                 0x108      0x4
+                                 0x10c      0x4
+                                 0x110      0x4
+  __DLIB_PERTHREAD          10     0x0      0x0  stm32f4xx_pwr.o
+  __DLIB_PERTHREAD_init     11     0x0      0x0  stm32f4xx_pwr.o
+  .text                      9     0x0     0x4e  stm32f4xx_rcc.o
+                                  0x4e     0x10
+                                  0x5e     0x38
+                                  0x96     0x1a
+                                  0xb0      0xa
+                                  0xba     0x32
+                                  0xec      0xa
+                                  0xf6     0x1e
+                                 0x114      0xa
+                                 0x11e      0xe
+                                 0x12c      0xa
+                                 0x136      0xa
+                                 0x140     0x18
+                                 0x158     0x18
+                                 0x170     0x16
+                                 0x186      0xc
+                                 0x192     0x16
+                                 0x1a8     0x16
+                                 0x1be     0x18
+                                 0x2b4     0x2e
+                                 0x2e2      0x8
+                                 0x2f2      0x6
+                                 0x318     0x20
+                                 0x338     0x20
+                                 0x398     0x20
+                                 0x3b8     0x20
+                                 0x3d8     0x20
+                                 0x418     0x20
+                                 0x438     0x20
+                                 0x458     0x20
+                                 0x478     0x20
+                                 0x498     0x20
+                                 0x4b8     0x20
+                                 0x4d8     0x20
+                                 0x4f8     0x3e
+                                 0x536      0xe
+                                 0x544     0x18
+                                 0x55c      0x8
+                                 0x564      0x4
+                                 0x56c      0x4
+                                 0x570      0x4
+                                 0x578      0x4
+                                 0x57c      0x4
+                                 0x580      0x4
+                                 0x584      0x4
+                                 0x588      0x4
+                                 0x58c      0x4
+                                 0x590      0x4
+                                 0x594      0x4
+                                 0x598      0x4
+                                 0x5a8      0x4
+                                 0x5ac      0x4
+                                 0x5b4      0x4
+                                 0x5bc      0x4
+                                 0x5c0      0x4
+                                 0x5cc      0x4
+                                 0x5d0      0x4
+                                 0x5d4      0x4
+                                 0x5dc      0x4
+                                 0x5e0      0x4
+                                 0x5e4      0x4
+                                 0x5e8      0x4
+                                 0x5ec      0x4
+                                 0x5f0      0x4
+                                 0x5f4      0x4
+                                 0x5f8      0x4
+                                 0x5fc      0x4
+  __DLIB_PERTHREAD          11     0x0      0x0  stm32f4xx_rcc.o
+  __DLIB_PERTHREAD_init     12     0x0      0x0  stm32f4xx_rcc.o
+  .text                      8     0x0     0x14  stm32f4xx_rng.o
+                                  0x14     0x22
+                                  0x36      0x6
+                                  0x3c     0x22
+                                  0x5e     0x18
+                                  0x76      0xc
+                                  0x82     0x18
+                                  0x9a      0xa
+                                  0xa4      0x4
+                                  0xa8      0x4
+                                  0xac      0x4
+  __DLIB_PERTHREAD          10     0x0      0x0  stm32f4xx_rng.o
+  __DLIB_PERTHREAD_init     11     0x0      0x0  stm32f4xx_rng.o
+  .text                      8     0x0     0xd6  stm32f4xx_rtc.o
+                                  0xd6     0x6e
+                                 0x144      0xe
+                                 0x152     0x22
+                                 0x174     0x54
+                                 0x1c8     0x12
+                                 0x1da     0x64
+                                 0x23e     0x5c
+                                 0x29a     0x42
+                                 0x2dc     0xc0
+                                 0x39c     0x12
+                                 0x3ae     0x4e
+                                 0x3fc     0x10
+                                 0x40c     0xbc
+                                 0x4c8     0x12
+                                 0x4da     0x4a
+                                 0x524     0xec
+                                 0x610     0x1e
+                                 0x62e     0x72
+                                 0x6a0     0x7e
+                                 0x71e     0x38
+                                 0x756     0x22
+                                 0x778     0x38
+                                 0x7b0     0x20
+                                 0x7d0      0xa
+                                 0x7da     0x80
+                                 0x85a     0x32
+                                 0x88c      0xc
+                                 0x898     0x32
+                                 0x8ca     0x3e
+                                 0x908     0x54
+                                 0x95c     0x3a
+                                 0x996     0x30
+                                 0x9c6     0x58
+                                 0xa1e     0x34
+                                 0xa52     0x90
+                                 0xae2      0x6
+                                 0xae8     0x20
+                                 0xb08     0x20
+                                 0xb28     0x18
+                                 0xb40     0x18
+                                 0xb58     0x18
+                                 0xb70     0x24
+                                 0xb94      0x4
+                                 0xb98      0x4
+                                 0xb9c      0x4
+                                 0xba0     0x22
+                                 0xbc2     0x1a
+                                 0xbdc     0x1c
+                                 0xbf8      0x4
+                                 0xbfc      0x4
+                                 0xc00      0x4
+                                 0xc04     0x18
+                                 0xc1c      0x4
+                                 0xc20      0x4
+                                 0xc24      0x4
+                                 0xc28     0x18
+                                 0xc40      0x4
+                                 0xc44     0x18
+                                 0xc5c      0x4
+                                 0xc60     0x64
+                                 0xcc4      0x4
+                                 0xcc8     0x56
+                                 0xd1e     0x1e
+                                 0xd3c      0x4
+                                 0xd40     0x18
+                                 0xd58      0x4
+                                 0xd5c     0x36
+                                 0xd92     0x1e
+                                 0xdb0      0x4
+                                 0xdb4      0x4
+                                 0xdb8      0x4
+                                 0xdbc      0x4
+                                 0xdc0      0x4
+                                 0xdc4      0x4
+                                 0xdc8      0x4
+                                 0xdcc      0x4
+                                 0xdd0      0x4
+                                 0xdd4      0x4
+                                 0xdd8      0x4
+                                 0xddc      0x4
+                                 0xde0      0x4
+                                 0xde4      0x4
+                                 0xde8      0x4
+                                 0xdec     0x16
+                                 0xe02     0x16
+  __DLIB_PERTHREAD          10     0x0      0x0  stm32f4xx_rtc.o
+  __DLIB_PERTHREAD_init     11     0x0      0x0  stm32f4xx_rtc.o
+  .text                      8     0x0     0x18  stm32f4xx_sdio.o
+                                  0x18     0x28
+                                  0x40     0x1a
+                                  0x5a      0x8
+                                  0x62      0x6
+                                  0x68      0xa
+                                  0x72     0x26
+                                  0x98     0x16
+                                  0xae      0x8
+                                  0xb6     0x14
+                                  0xca     0x2c
+                                  0xf6     0x1c
+                                 0x112      0x6
+                                 0x118      0x6
+                                 0x11e      0x6
+                                 0x124      0x6
+                                 0x12a      0x8
+                                 0x132      0x8
+                                 0x13a      0x6
+                                 0x140      0x8
+                                 0x148      0x8
+                                 0x150      0x8
+                                 0x158      0xe
+                                 0x166      0x8
+                                 0x16e      0x8
+                                 0x176     0x20
+                                 0x196     0x16
+                                 0x1ac      0x6
+                                 0x1b2     0x16
+                                 0x1c8      0x8
+                                 0x1d0      0x4
+                                 0x1d4      0x4
+                                 0x1d8      0x4
+                                 0x1dc      0x4
+                                 0x1e0      0x4
+                                 0x1e4      0x4
+                                 0x1e8      0x4
+                                 0x1ec      0x4
+                                 0x1f0      0x4
+                                 0x1f4      0x4
+                                 0x1f8      0x4
+                                 0x1fc      0x4
+                                 0x200      0x4
+                                 0x204      0x4
+                                 0x208      0x4
+                                 0x20c      0x4
+                                 0x210      0x4
+                                 0x214      0x4
+                                 0x218      0x4
+                                 0x21c      0x4
+                                 0x220      0x4
+                                 0x224      0x4
+                                 0x228      0x4
+                                 0x22c      0x4
+                                 0x230      0x4
+                                 0x234      0x4
+  __DLIB_PERTHREAD          10     0x0      0x0  stm32f4xx_sdio.o
+  __DLIB_PERTHREAD_init     11     0x0      0x0  stm32f4xx_sdio.o
+  .text                      8     0x0     0x56  stm32f4xx_spi.o
+                                  0x56     0x3e
+                                  0x94     0xe4
+                                 0x178      0x4
+                                 0x17c      0x4
+                                 0x180      0x4
+                                 0x184      0x4
+                                 0x188      0x4
+                                 0x18c      0x4
+                                 0x190      0x4
+                                 0x194     0x26
+                                 0x1ba     0x1a
+                                 0x1d4     0x1c
+                                 0x1f0     0x1c
+                                 0x20c     0x12
+                                 0x21e     0x1e
+                                 0x23c     0x20
+                                 0x25c     0x1c
+                                 0x278     0x1c
+                                 0x294     0x54
+                                 0x2e8      0x4
+                                 0x2ec      0x4
+                                 0x2f0     0x1c
+                                 0x30c      0xa
+                                 0x316     0x14
+                                 0x32a      0x4
+                                 0x32e     0x18
+                                 0x346     0x26
+                                 0x36c     0x14
+                                 0x380      0x8
+                                 0x388     0x38
+                                 0x3c0     0x12
+  __DLIB_PERTHREAD          10     0x0      0x0  stm32f4xx_spi.o
+  __DLIB_PERTHREAD_init     11     0x0      0x0  stm32f4xx_spi.o
+  .text                      8     0x0     0x18  stm32f4xx_syscfg.o
+                                  0x18      0x8
+                                  0x6e      0x6
+                                  0x74      0x8
+                                  0x7c     0x14
+                                  0x90      0x4
+                                  0x98      0x4
+                                  0x9c      0x4
+                                  0xa0      0x4
+  __DLIB_PERTHREAD          10     0x0      0x0  stm32f4xx_syscfg.o
+  __DLIB_PERTHREAD_init     11     0x0      0x0  stm32f4xx_syscfg.o
+  .text                      8     0x0    0x178  stm32f4xx_tim.o
+                                 0x178     0x68
+                                 0x1e0     0x18
+                                 0x1f8      0x6
+                                 0x1fe     0x10
+                                 0x20e      0x4
+                                 0x212      0x4
+                                 0x216      0x4
+                                 0x21a      0x4
+                                 0x21e     0x1c
+                                 0x23a     0x1c
+                                 0x256     0x1c
+                                 0x272     0x12
+                                 0x284     0x12
+                                 0x296     0x1c
+                                 0x2b2     0x78
+                                 0x32a     0x86
+                                 0x3b0     0x84
+                                 0x434     0x64
+                                 0x498      0x4
+                                 0x49c      0x4
+                                 0x4a0      0x4
+                                 0x4a4      0x4
+                                 0x4a8      0x4
+                                 0x4ac      0x4
+                                 0x4b0      0x4
+                                 0x4b4      0x4
+                                 0x4b8      0x4
+                                 0x4bc      0x4
+                                 0x4c0      0x4
+                                 0x4c4      0x4
+                                 0x4c8      0x4
+                                 0x4cc     0x22
+                                 0x4ee     0x60
+                                 0x54e      0x4
+                                 0x552      0x4
+                                 0x556      0x4
+                                 0x55a      0x4
+                                 0x55e     0x10
+                                 0x56e     0x12
+                                 0x580     0x10
+                                 0x590     0x12
+                                 0x5a2     0x10
+                                 0x5b2     0x12
+                                 0x5c4     0x10
+                                 0x5d4     0x12
+                                 0x5e6     0x10
+                                 0x5f6     0x12
+                                 0x608     0x10
+                                 0x618     0x12
+                                 0x62a     0x10
+                                 0x63a     0x10
+                                 0x64a     0x10
+                                 0x65a     0x10
+                                 0x66a     0x10
+                                 0x67a     0x10
+                                 0x68a     0x12
+                                 0x69c     0x12
+                                 0x6ae     0x12
+                                 0x6c0     0x12
+                                 0x6d2     0x12
+                                 0x6e4     0x20
+                                 0x704     0x20
+                                 0x724     0x70
+                                 0x794     0x16
+                                 0x7aa     0x84
+                                 0x836      0x4
+                                 0x83a      0x4
+                                 0x83e     0x12
+                                 0x850     0x14
+                                 0x864     0x12
+                                 0x876     0x14
+                                 0x88a     0x20
+                                 0x8aa     0x1e
+                                 0x8c8     0x22
+                                 0x8ea     0x1c
+                                 0x906     0x1c
+                                 0x922     0x18
+                                 0x93a      0x4
+                                 0x93e     0x14
+                                 0x952      0x8
+                                 0x95a     0x28
+                                 0x98a      0x8
+                                 0x992     0x18
+                                 0x9aa     0x1c
+                                 0x9c6      0xc
+                                 0x9d2     0x16
+                                 0x9e8     0x3c
+                                 0xa24     0x2c
+                                 0xa50     0x1a
+                                 0xa6a     0x10
+                                 0xa7a     0x12
+                                 0xa8c     0x12
+                                 0xa9e     0x12
+                                 0xab0     0x16
+                                 0xac6     0x38
+                                 0xafe     0x1c
+                                 0xb1a      0x6
+                                 0xb20     0x34
+                                 0xb54     0x3a
+                                 0xb8e     0x38
+                                 0xbc6     0x3a
+  __DLIB_PERTHREAD          10     0x0      0x0  stm32f4xx_tim.o
+  __DLIB_PERTHREAD_init     11     0x0      0x0  stm32f4xx_tim.o
+  .text                      8     0x0     0xa2  stm32f4xx_usart.o
+                                 0x15c      0x4
+                                 0x160      0x4
+                                 0x164      0x4
+                                 0x168      0x4
+                                 0x174     0x1c
+                                 0x190     0x20
+                                 0x1b0     0x12
+                                 0x1de     0x12
+                                 0x1f0     0x1a
+                                 0x20a     0x1c
+                                 0x236     0x14
+                                 0x24a     0x1c
+                                 0x266     0x12
+                                 0x278     0x12
+                                 0x28a     0x1c
+                                 0x2a6      0xa
+                                 0x2b0     0x1c
+                                 0x2cc     0x12
+                                 0x2de     0x1c
+                                 0x2fa     0x1c
+                                 0x316     0x12
+                                 0x328     0x1c
+                                 0x344     0x18
+                                 0x3c8      0xc
+  __DLIB_PERTHREAD          10     0x0      0x0  stm32f4xx_usart.o
+  __DLIB_PERTHREAD_init     11     0x0      0x0  stm32f4xx_usart.o
+  .text                      8     0x0     0x18  stm32f4xx_wwdg.o
+                                  0x18     0x12
+                                  0x2a     0x26
+                                  0x50      0x8
+                                  0x58      0xc
+                                  0x64      0xc
+                                  0x70     0x14
+                                  0x84      0x8
+                                  0x8c      0x4
+                                  0x90      0x4
+                                  0x94      0x4
+                                  0x98      0x4
+  __DLIB_PERTHREAD          10     0x0      0x0  stm32f4xx_wwdg.o
+  __DLIB_PERTHREAD_init     11     0x0      0x0  stm32f4xx_wwdg.o
+  .text                      9    0x9e      0xa  storage_manager.o
+                                  0xa8     0x28
+                                  0xd0     0x9c
+                                 0x16c     0x94
+  __DLIB_PERTHREAD          11     0x0      0x0  storage_manager.o
+  __DLIB_PERTHREAD_init     12     0x0      0x0  storage_manager.o
+  __DLIB_PERTHREAD          12     0x0      0x0  system_stm32f4xx.o
+  __DLIB_PERTHREAD_init     13     0x0      0x0  system_stm32f4xx.o
+  __DLIB_PERTHREAD          10     0x0      0x0  uart.o
+  __DLIB_PERTHREAD_init     11     0x0      0x0  uart.o
+  .text                      9   0x622      0xa  fusion_9axis.o
+                                 0x64c      0x6
+                                 0x66e      0x6
+  __DLIB_PERTHREAD          11     0x0      0x0  fusion_9axis.o
+  __DLIB_PERTHREAD_init     12     0x0      0x0  fusion_9axis.o
+  .rodata                   13     0x0      0xc  fusion_9axis.o
+  .text                      8   0x1e0     0xf0  fast_no_motion.o
+                                 0x3fe      0xa
+                                 0x408      0xa
+                                 0x412      0xa
+                                 0x41c     0x18
+                                 0x434     0x18
+                                 0x5a6     0x52
+                                 0xb28     0x12
+                                 0xb7a     0x10
+                                 0xb8a      0xa
+                                 0xbb4      0x4
+  __DLIB_PERTHREAD          12     0x0      0x0  fast_no_motion.o
+  __DLIB_PERTHREAD_init     13     0x0      0x0  fast_no_motion.o
+  .text                      9   0x418      0xa  gyro_tc.o
+                                 0x422      0xa
+                                 0x42c      0xa
+                                 0x436     0x20
+                                 0x456      0x4
+                                 0x45a     0x12
+                                 0x46c     0x30
+                                 0x4a6      0x6
+                                 0x4e2     0x2a
+  __DLIB_PERTHREAD          11     0x0      0x0  gyro_tc.o
+  __DLIB_PERTHREAD_init     12     0x0      0x0  gyro_tc.o
+  .rodata                   13     0x0     0x18  gyro_tc.o
+                                  0x18     0x18
+  .text                      8    0x68      0x8  mag_disturb.o
+                                  0x96     0x12
+                                  0xb4      0xe
+  __DLIB_PERTHREAD          11     0x0      0x0  mag_disturb.o
+  __DLIB_PERTHREAD_init     12     0x0      0x0  mag_disturb.o
+  .rodata                   13     0x0      0xc  mag_disturb.o
+  .text                      9   0x6f0     0x2c  quaternion_supervisor.o
+                                 0x9a8      0x6
+                                 0xa0e     0x12
+                                 0xa7c      0x4
+  __DLIB_PERTHREAD          11     0x0      0x0  quaternion_supervisor.o
+  __DLIB_PERTHREAD_init     12     0x0      0x0  quaternion_supervisor.o
+  .text                      9     0x0      0xa  compass_vec_cal.o
+                                0x1fb0      0x6
+                                0x2022     0x12
+  __DLIB_PERTHREAD          12     0x0      0x0  compass_vec_cal.o
+  __DLIB_PERTHREAD_init     13     0x0      0x0  compass_vec_cal.o
+  .text                      8     0x0      0x2  accel_auto_cal.o
+                                   0x2     0x20
+                                  0x22     0x34
+                                  0x56     0x42
+                                  0x98    0x17e
+                                 0x216    0x128
+                                 0x33e     0xb6
+                                 0x4c6     0x9a
+                                 0x560     0x80
+                                 0x76c     0x3c
+                                 0x7a8    0x32e
+                                 0xad6     0x56
+                                 0xb2c      0xc
+                                 0xb38      0x6
+                                 0xb3e     0x40
+                                 0xb7e     0x10
+                                 0xb8e      0x6
+                                 0xb94      0x4
+                                 0xb98      0x4
+                                 0xb9c      0x4
+                                 0xba0      0x4
+                                 0xba4      0x4
+                                 0xba8      0x4
+                                 0xbac      0x4
+                                 0xbb0      0x4
+                                 0xbb4      0x4
+                                 0xbb8      0x4
+                                 0xbbc      0x4
+                                 0xbc0      0x4
+                                 0xbc4      0x4
+                                 0xbd0      0x4
+                                 0xbd4      0x4
+                                 0xbd8      0x4
+                                 0xbdc      0x4
+                                 0xbe0      0x4
+                                 0xbe4      0x4
+                                 0xbe8      0x4
+                                 0xbec      0x4
+                                 0xbf0      0x4
+                                 0xbf4      0x4
+                                 0xbf8      0x4
+                                 0xbfc      0x4
+                                 0xc00      0x4
+                                 0xc04      0x4
+                                 0xc08      0x4
+                                 0xc0c     0x24
+                                 0xc30     0x34
+  .bss                       9     0x0    0x4b8  accel_auto_cal.o
+  __DLIB_PERTHREAD          11     0x0      0x0  accel_auto_cal.o
+  __DLIB_PERTHREAD_init     12     0x0      0x0  accel_auto_cal.o
+  .rodata                   13     0x0      0xc  accel_auto_cal.o
+  .text                      6     0x0     0x10  atan2f.o
+  .text                      6     0x0     0x10  asinf.o
+                                  0x10     0x60
+  .cantunwind                6     0x0      0x0  I64DivMod.o
+  __DLIB_PERTHREAD           8     0x0      0x0  vsprintf.o
+  __DLIB_PERTHREAD_init      9     0x0      0x0  vsprintf.o
+  .text                      6     0x0     0xfc  acos.o
+                                  0xfc      0x4
+                                 0x100      0x4
+                                 0x104      0x4
+                                 0x108      0x8
+                                 0x110     0x10
+  __DLIB_PERTHREAD           8     0x0      0x0  acos.o
+  __DLIB_PERTHREAD_init      9     0x0      0x0  acos.o
+  .text                      6     0x0     0x10  sqrt.o
+  .text                      6     0x0    0x110  asin.o
+                                 0x110      0x4
+                                 0x114      0x4
+                                 0x118      0x4
+                                 0x11c      0x8
+                                 0x124     0x10
+  __DLIB_PERTHREAD           8     0x0      0x0  asin.o
+  __DLIB_PERTHREAD_init      9     0x0      0x0  asin.o
+  .text                      6     0x0     0x9c  atan.o
+                                  0x9c      0x8
+                                  0xa4      0x8
+                                  0xac      0x4
+                                  0xb0     0x10
+  __DLIB_PERTHREAD           8     0x0      0x0  atan.o
+  __DLIB_PERTHREAD_init      9     0x0      0x0  atan.o
+  .text                      6     0x0     0xd0  atan2.o
+                                  0xd0      0x8
+                                  0xd8      0x8
+                                  0xe0     0x14
+  __DLIB_PERTHREAD           8     0x0      0x0  atan2.o
+  __DLIB_PERTHREAD_init      9     0x0      0x0  atan2.o
+  .text                      6     0x0     0x10  ceil.o
+                                  0x10     0x5e
+  .text                      7     0x0      0x6  cos.o
+  .text                      8     0x0     0x12  cos.o
+  __DLIB_PERTHREAD          10     0x0      0x0  cos.o
+  __DLIB_PERTHREAD_init     11     0x0      0x0  cos.o
+  .text                      6     0x0     0x10  floor.o
+                                  0x10     0x5e
+  .text                      8     0x0     0x12  log.o
+  __DLIB_PERTHREAD          10     0x0      0x0  log.o
+  __DLIB_PERTHREAD_init     11     0x0      0x0  log.o
+  .text                      6     0x0    0x478  pow.o
+                                 0x478      0xa
+                                 0x482     0x14
+                                 0x496     0x1a
+                                 0x4b0    0x420
+  __DLIB_PERTHREAD           8     0x0      0x0  pow.o
+  __DLIB_PERTHREAD_init      9     0x0      0x0  pow.o
+  .text                      7     0x0      0x6  sin.o
+  .text                      8     0x0     0x12  sin.o
+  __DLIB_PERTHREAD          10     0x0      0x0  sin.o
+  __DLIB_PERTHREAD_init     11     0x0      0x0  sin.o
+  .text                      7     0x0      0x6  cosf.o
+  __DLIB_PERTHREAD          10     0x0      0x0  cosf.o
+  __DLIB_PERTHREAD_init     11     0x0      0x0  cosf.o
+  __DLIB_PERTHREAD           9     0x0      0x0  memcpy.o
+  __DLIB_PERTHREAD_init     10     0x0      0x0  memcpy.o
+  __DLIB_PERTHREAD           9     0x0      0x0  memmove.o
+  __DLIB_PERTHREAD_init     10     0x0      0x0  memmove.o
+  __DLIB_PERTHREAD           9     0x0      0x0  memset.o
+  __DLIB_PERTHREAD_init     10     0x0      0x0  memset.o
+  .text                      7     0x0      0x6  sinf.o
+  __DLIB_PERTHREAD          10     0x0      0x0  sinf.o
+  __DLIB_PERTHREAD_init     11     0x0      0x0  sinf.o
+  __DLIB_PERTHREAD           9     0x0      0x0  abs.o
+  __DLIB_PERTHREAD_init     10     0x0      0x0  abs.o
+  .text                      6     0x0      0x0  ABImemclr4.o
+  SHT$$PREINIT_ARRAY         6     0x0      0x0  cmain.o
+  SHT$$INIT_ARRAY            7     0x0      0x0  cmain.o
+  __DLIB_PERTHREAD           8     0x0      0x0  xprintffull.o
+  __DLIB_PERTHREAD_init      9     0x0      0x0  xprintffull.o
+  __DLIB_PERTHREAD           8     0x0      0x0  xsprout.o
+  __DLIB_PERTHREAD_init      9     0x0      0x0  xsprout.o
+  __DLIB_PERTHREAD           7     0x0      0x0  errno.o
+  .rodata                    9     0x0      0x4  errno.o
+                                   0x4      0x4
+                                   0x8      0x4
+                                   0xc      0x4
+                                  0x10      0x4
+  __DLIB_PERTHREAD_init     11     0x0      0x0  errno.o
+  .text                      6     0x0    0x158  xatan.o
+                                 0x158      0x4
+                                 0x15c      0x4
+                                 0x160      0x8
+                                 0x168      0x4
+                                 0x16c      0x4
+                                 0x170      0x4
+                                 0x174      0x4
+                                 0x178      0x4
+                                 0x17c      0x4
+                                 0x180      0x4
+                                 0x184      0x4
+                                 0x188      0x4
+                                 0x18c      0x4
+                                 0x190      0x4
+                                 0x194      0x4
+                                 0x198      0x4
+                                 0x19c      0x4
+                                 0x1a0      0x4
+                                 0x1a4      0x4
+                                 0x1a8      0x4
+                                 0x1ac     0x14
+                                 0x1c0     0x40
+  __DLIB_PERTHREAD           8     0x0      0x0  xatan.o
+  __DLIB_PERTHREAD_init      9     0x0      0x0  xatan.o
+  .text                      6     0x0     0x30  xdtest.o
+                                  0x30     0x38
+                                  0x68      0x8
+                                  0x70      0x8
+  __DLIB_PERTHREAD           8     0x0      0x0  xdtest.o
+  __DLIB_PERTHREAD_init      9     0x0      0x0  xdtest.o
+  .text                      6     0x0    0x3c4  xsin.o
+                                 0x3c4      0x4
+                                 0x3c8      0x4
+                                 0x3cc      0x4
+                                 0x3d0      0x4
+                                 0x3d4      0x4
+                                 0x3d8      0x4
+                                 0x3dc      0x4
+                                 0x3e0      0x4
+                                 0x3e4      0x4
+                                 0x3e8      0x4
+                                 0x3ec      0x4
+                                 0x3f0      0x4
+                                 0x3f4      0x4
+                                 0x3f8      0x4
+                                 0x3fc      0x4
+                                 0x400      0x4
+                                 0x404      0x4
+                                 0x408      0x4
+                                 0x40c      0x4
+                                 0x410      0x4
+                                 0x414      0x4
+                                 0x418      0x4
+                                 0x41c      0x4
+                                 0x420      0x4
+                                 0x424      0x4
+                                 0x428      0x4
+                                 0x42c      0x4
+                                 0x430      0x4
+                                 0x434      0x4
+                                 0x438      0x4
+                                 0x43c      0x4
+                                 0x440      0x4
+                                 0x444      0x4
+                                 0x448      0x4
+                                 0x44c      0x4
+                                 0x450      0x4
+                                 0x454      0x4
+                                 0x458      0x8
+                                 0x460     0x12
+  __DLIB_PERTHREAD           8     0x0      0x0  xsin.o
+  __DLIB_PERTHREAD_init      9     0x0      0x0  xsin.o
+  .text                      6   0x264     0x78  xlog.o
+                                 0x360     0x10
+                                 0x370     0xb0
+                                 0x420      0x6
+  __DLIB_PERTHREAD           8     0x0      0x0  xlog.o
+  __DLIB_PERTHREAD_init      9     0x0      0x0  xlog.o
+  .text                      6     0x0     0x7e  xdint.o
+  __DLIB_PERTHREAD           8     0x0      0x0  xdint.o
+  __DLIB_PERTHREAD_init      9     0x0      0x0  xdint.o
+  __DLIB_PERTHREAD           8     0x0      0x0  xdnorm.o
+  __DLIB_PERTHREAD_init      9     0x0      0x0  xdnorm.o
+  .text                      6     0x0    0x2be  xexp.o
+                                 0x2be      0x8
+                                 0x2c6      0xe
+  __DLIB_PERTHREAD           8     0x0      0x0  xexp.o
+  __DLIB_PERTHREAD_init      9     0x0      0x0  xexp.o
+  .text                      6   0x16c     0x12  xfsin.o
+  __DLIB_PERTHREAD           8     0x0      0x0  xfsin.o
+  __DLIB_PERTHREAD_init      9     0x0      0x0  xfsin.o
+  .text                      6     0x0      0x8  ABImemset48.o
+  __DLIB_PERTHREAD           8     0x0      0x0  exit.o
+  __DLIB_PERTHREAD_init      9     0x0      0x0  exit.o
+  __DLIB_PERTHREAD           8     0x0      0x0  xdscale.o
+  __DLIB_PERTHREAD_init      9     0x0      0x0  xdscale.o
+  __DLIB_PERTHREAD           8     0x0      0x0  div.o
+  __DLIB_PERTHREAD_init      9     0x0      0x0  div.o
+  __DLIB_PERTHREAD           8     0x0      0x0  xtls.o
+  __DLIB_PERTHREAD_init      9     0x0      0x0  xtls.o
+  .text                      6     0x0    0x12c  xquad.o
+                                 0x12c      0x4
+                                 0x130      0x4
+                                 0x134      0x4
+                                 0x138      0x4
+                                 0x13c      0x4
+                                 0x140      0x4
+                                 0x144      0x4
+                                 0x148      0x4
+                                 0x14c      0x4
+                                 0x150      0x4
+                                 0x154      0x4
+                                 0x158      0x4
+                                 0x15c      0x4
+                                 0x160      0x4
+                                 0x164      0x4
+                                 0x168      0x2
+  __DLIB_PERTHREAD           8     0x0      0x0  xquad.o
+  __DLIB_PERTHREAD_init      9     0x0      0x0  xquad.o
+  .text                      6    0xec      0x2  xfquad.o
+  __DLIB_PERTHREAD           8     0x0      0x0  xfquad.o
+  __DLIB_PERTHREAD_init      9     0x0      0x0  xfquad.o
+  .text                      6     0x2      0x4  cexit.o
+                                   0x6      0x4
+                                   0xa      0x4
+  .text                      6     0x0     0x14  fmod.o
+                                  0x14    0x1a8
+  __DLIB_PERTHREAD           8     0x0      0x0  xfdint.o
+  __DLIB_PERTHREAD_init      9     0x0      0x0  xfdint.o
+  __DLIB_PERTHREAD           8     0x0      0x0  exit.o
+  __DLIB_PERTHREAD_init      9     0x0      0x0  exit.o
+  Region$$Table              8     0x0      0x0  data_init.o
+  __DLIB_PERTHREAD           9     0x0      0x0  data_init.o
+  __DLIB_PERTHREAD_init     10     0x0      0x0  data_init.o
+  __DLIB_PERTHREAD           9     0x0      0x0  zero_init3.o
+  __DLIB_PERTHREAD_init     10     0x0      0x0  zero_init3.o
+  __DLIB_PERTHREAD           9     0x0      0x0  copy_init3.o
+  __DLIB_PERTHREAD_init     10     0x0      0x0  copy_init3.o
+  __DLIB_PERTHREAD           9     0x0      0x0  rle_init.o
+  __DLIB_PERTHREAD_init     10     0x0      0x0  rle_init.o
+  __DLIB_PERTHREAD           9     0x0      0x0  packbits_init.o
+  __DLIB_PERTHREAD_init     10     0x0      0x0  packbits_init.o
+  __DLIB_PERTHREAD           9     0x0      0x0  lzw_init.o
+  __DLIB_PERTHREAD_init     10     0x0      0x0  lzw_init.o
+  __DLIB_PERTHREAD           9     0x0      0x0  bwt_init.o
+  __DLIB_PERTHREAD_init     10     0x0      0x0  bwt_init.o
+  __DLIB_PERTHREAD           9     0x0      0x0  lz77_init.o
+  __DLIB_PERTHREAD_init     10     0x0      0x0  lz77_init.o
+  __DLIB_PERTHREAD           8     0x0      0x0  abort.o
+  __DLIB_PERTHREAD_init      9     0x0      0x0  abort.o

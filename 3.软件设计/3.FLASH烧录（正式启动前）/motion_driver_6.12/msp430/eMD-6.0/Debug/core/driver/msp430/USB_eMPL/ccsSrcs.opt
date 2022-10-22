@@ -1,0 +1,1 @@
+"../core/driver/msp430/USB_eMPL/UsbIsr.c" "../core/driver/msp430/USB_eMPL/descriptors.c" "../core/driver/msp430/USB_eMPL/log_msp430.c" "../core/driver/msp430/USB_eMPL/usbConstructs.c" "../core/driver/msp430/USB_eMPL/usbEventHandling.c" 
